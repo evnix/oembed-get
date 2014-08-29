@@ -1,4 +1,4 @@
-Jquery-Oembed-All
+Oembed-get
 =================
 
 This is a fork (with a lot of changes) of the jquery-oembed located at http://code.google.com/p/jquery-oembed/.
